@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # Создаем DataFrame с данными об оценках учеников
 data = {
